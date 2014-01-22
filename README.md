@@ -10,7 +10,9 @@ to make a crude EKG?"
 I experimented with a few different techniques for acquiring, processing, and graphing the data,
 and ended up with a pretty decent result.  (Obvious disclaimer #1: When I say "pretty decent
 result," this is engineer-me talking, not (non-existant) doctor-me.  Don't make medical 
-decisions based on this ;)
+decisions based on this ;) Example:
+
+![Example visualization](https://raw.github.com/jimlindstrom/iphone_heart_monitor/master/deltas.png)
 
 
 ## Usage
